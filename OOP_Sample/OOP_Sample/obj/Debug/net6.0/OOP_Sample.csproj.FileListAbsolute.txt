@@ -1,0 +1,14 @@
+C:\Users\bebop\Desktop\c#\c# youtube\my journal about C#\OOP\OOP_Sample\OOP_Sample\bin\Debug\net6.0\OOP_Sample.exe
+C:\Users\bebop\Desktop\c#\c# youtube\my journal about C#\OOP\OOP_Sample\OOP_Sample\bin\Debug\net6.0\OOP_Sample.deps.json
+C:\Users\bebop\Desktop\c#\c# youtube\my journal about C#\OOP\OOP_Sample\OOP_Sample\bin\Debug\net6.0\OOP_Sample.runtimeconfig.json
+C:\Users\bebop\Desktop\c#\c# youtube\my journal about C#\OOP\OOP_Sample\OOP_Sample\bin\Debug\net6.0\OOP_Sample.dll
+C:\Users\bebop\Desktop\c#\c# youtube\my journal about C#\OOP\OOP_Sample\OOP_Sample\bin\Debug\net6.0\OOP_Sample.pdb
+C:\Users\bebop\Desktop\c#\c# youtube\my journal about C#\OOP\OOP_Sample\OOP_Sample\obj\Debug\net6.0\OOP_Sample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bebop\Desktop\c#\c# youtube\my journal about C#\OOP\OOP_Sample\OOP_Sample\obj\Debug\net6.0\OOP_Sample.AssemblyInfoInputs.cache
+C:\Users\bebop\Desktop\c#\c# youtube\my journal about C#\OOP\OOP_Sample\OOP_Sample\obj\Debug\net6.0\OOP_Sample.AssemblyInfo.cs
+C:\Users\bebop\Desktop\c#\c# youtube\my journal about C#\OOP\OOP_Sample\OOP_Sample\obj\Debug\net6.0\OOP_Sample.csproj.CoreCompileInputs.cache
+C:\Users\bebop\Desktop\c#\c# youtube\my journal about C#\OOP\OOP_Sample\OOP_Sample\obj\Debug\net6.0\OOP_Sample.dll
+C:\Users\bebop\Desktop\c#\c# youtube\my journal about C#\OOP\OOP_Sample\OOP_Sample\obj\Debug\net6.0\refint\OOP_Sample.dll
+C:\Users\bebop\Desktop\c#\c# youtube\my journal about C#\OOP\OOP_Sample\OOP_Sample\obj\Debug\net6.0\OOP_Sample.pdb
+C:\Users\bebop\Desktop\c#\c# youtube\my journal about C#\OOP\OOP_Sample\OOP_Sample\obj\Debug\net6.0\OOP_Sample.genruntimeconfig.cache
+C:\Users\bebop\Desktop\c#\c# youtube\my journal about C#\OOP\OOP_Sample\OOP_Sample\obj\Debug\net6.0\ref\OOP_Sample.dll
